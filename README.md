@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Wang+Liao+%3C3;I'+am+a+3rd+yr+Undergraduate+at+UNSW;I'+am+a+Analytical+Validation+Engineer+at+Volvo-Cars;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Juniel+Liu;I'+am+a+fullstack+blockchain+engineer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
@@ -12,9 +12,9 @@
 
 <br/>
 <p align="left">
-  <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=blueberry&hide_border=true" />
+  <a href="https://www.linkedin.com/in/juniel-liu-33b720213/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fastendev&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fastendev&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
@@ -58,15 +58,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### :link: &nbsp;Contact Info
-
-<p align="center">
-<a href="https://lia0wang.com/"><img src="https://img.shields.io/badge/-lia0wang.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/wang-liao-280571213/"><img src="https://img.shields.io/badge/-Wang%20Liao-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/lia0wang"><img src="https://img.shields.io/badge/-lia0wang-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
-</p>
-<p  align="center">
-<img src="Hi.gif" width="15px">
-</p>
-<p align="center"><b>Profile Visitor Counter</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
+  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=snowMan108&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/fastendev)
