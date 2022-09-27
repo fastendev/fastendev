@@ -1,5 +1,4 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
-<img width="100px" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/82228767?s=48&v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Juniel+Liu;I'+am+a+fullstack+blockchain+engineer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend;Welcome+to+my+profile+!">
 </p>
