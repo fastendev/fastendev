@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img style="border-radius: 50%" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Juniel+Liu;I'+am+a+fullstack+blockchain+engineer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Juniel+Liu;I'+am+a+fullstack+blockchain+engineer;I+worked+on+NFT,+Defi,+Dex,+Frontend,+Backend;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/juniel-liu-33b720213/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fastendev&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fastendev&theme=blueberry&hide_border=true" />
+    <img style="border-radius: 50%" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fastendev&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
