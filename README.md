@@ -9,14 +9,14 @@
 
 ### 📈 &nbsp;Contribution Statistics
 
-<br/>
+<!-- <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/juniel-liu-33b720213/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fastendev&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fastendev&theme=blueberry&hide_border=true" />
   </a>
 </p>
-<br>
+<br> -->
 
 [![Fastendev' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fastendev&custom_title=Juniel%20Liu's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)]
 
